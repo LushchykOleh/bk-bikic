@@ -1,7 +1,7 @@
 {
-  "name": "bk-cherkaskii bilic",
+  "name": "bk-bikic",
   "version": "1.0.0",
-  "description": "bk-cherkaskii bilic",
+  "description": "bk-bikic",
   "main": "src/index.js",
   "scripts": {
     "watch": "webpack --mode development --watch",
