@@ -43,10 +43,7 @@ body {
 
     font: 400 16px/1.75 $roboto;
 
-    &.no-scroll {
-        overflow: hidden;
-    }
-
+    background: #231816;
 }
 
 a {
@@ -76,9 +73,4 @@ section {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
-}
-
-.flex {
-    display: flex;
-    flex-wrap: wrap;
 }
